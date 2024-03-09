@@ -9,4 +9,4 @@ it's an awesome project, that receives an information for its user.
 
 ## Lessons Learned:
 
-Whao this is awesome, i learnt CSS3 and implement it on this awesome project.
+Whao this is awesome, i learnt CSS3 and implemented it on this awesome project.
